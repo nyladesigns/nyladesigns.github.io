@@ -56,7 +56,7 @@ header .masthead {
 
 .header {
   height: 1000px;
-  background-image: url("/images/Original-Baby-breaths.jpg");
+  background-image: url("Original-Baby-breaths.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: contain;
