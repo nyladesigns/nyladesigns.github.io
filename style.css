@@ -39,7 +39,12 @@ body {
 }
 
 .text-center {
-	font-family: timberline, sans-serif !important;
+	font-family: Amalfi, sans-serif;
+}
+
+@font-face {
+  font-family: "Amalfi";
+  src: url("Amalfi\ Coast.ttf");
 }
                                                
 
