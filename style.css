@@ -38,6 +38,11 @@ body {
 	color: darkgrey;
 }
 
+.text-center {
+	font-family: 'Amalfi Coast', sans-serif;
+}
+                                               
+
 .home {
 	text-align: center;
 	padding-top: 280px;
